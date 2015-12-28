@@ -64,9 +64,70 @@ function parse_result($smsbody)
 
 
 
+
+
+function acquire_record($handle_of_result)
+{
+    $record = array(); 
+    while( ! feof($handle_of_result) ) 
+    {
+        $temp = fgets($handle_of_result);
+        //echo $temp;
+        if( strlen( $temp ) > 2 )   //以空行为分界符 
+        {
+            $record = json_decode($temp,true);
+            break;
+        }
+    }
+    
+    return array($record,$handle_of_result);
+
+}
+
+
+function is_consistency($arr_of_parse,$arr_of_result)
+{
+    if( array_key_exists('empty', $arr_of_result) ) //  此时应该解析结果应该无法匹配
+    {
+        if( $arr_of_parse["msg"] == "no matched pattern")
+        {
+            return true;
+        }
+        else
+            return false;
+    }
+    else    //进一步进行比较判断
+    {
+        if($arr_of_parse["code"] == "100")
+        {
+            $arr = array();
+            if(isset($arr_of_parse["global"] ) )
+                $arr = $arr_of_parse["global"];  //获取解析后的数据信息
+            
+            foreach($arr as $key => $value) //遍历数组   
+            {
+                $val = int( float($value) );
+                if( int( $arr_of_result[$key] ) != $val)
+                    return false;
+            }
+            
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+           
+    }
+}
+
 $handle = fopen("data.txt","r") or die("Unable to open file!");
+$handle1 = fopen("result.txt","r") or die("Unable to open file!");
+
 $smsbody = "";
-$count = 0;
+$sum_count = 0;
+$true_count = 0;
 
 while( !feof($handle) ) 
 {
@@ -81,16 +142,36 @@ while( !feof($handle) )
          if(! empty( $smsbody)) //可以处理连续空行的情形
          { 
             $result = parse_result($smsbody);
-            //$result = json_decode($result,true);
+            
+            $result = json_decode($result,true);
             //var_dump($result);
-            echo $result."\n";
-            $count += 1; 
+
+            $arr = acquire_record($handle1);
+            $handle1 = $arr[1];
+            $record = $arr[0];
+
+            //var_dump($record);
+
+            if(is_consistency($result,$record) )
+            {
+                $true_count += 1;
+            }
+
+            $sum_count += 1; 
             $smsbody = ""; 
          }
      }
 }
-echo "$count"."\n";
+
+echo "$true_count"."\n";
+echo "$sum_count"."\n";
+
+printf("%.2f\n", $true_count / $sum_count);
+//echo $true_count / $sum_count;
+//echo "\n";
+
 
 fclose($handle);
+fclose($handle1);
 
 ?>

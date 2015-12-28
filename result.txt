@@ -1,0 +1,270 @@
+{"total": 585.25, "balance_j": 242.37, "balance": 542.37, "used": 42.88}
+
+{"total": 35, "total_j": 0, "balance": 2.74, "used": 32.260000000000005}
+
+{"total": 577.5, "balance": 502.1, "used": 75.4}
+
+{"total": 594.78, "total_j": 274.78, "balance": 547.44, "used": 47.33999999999992}
+
+{"empty":"null"}
+
+{"total": 8108, "balance": 7730.0599999999995, "used": 377.94}
+
+{"balance": 159.06}
+
+{"balance": 957.18}
+
+{"total": 2104, "balance": 2009.38, "used": 94.62}
+
+{"total": 500, "balance": 257.49, "used": 242.51}
+
+{"total": 112.24, "balance": 84.2, "used": 28.04}
+
+{"balance": 3115.85}
+
+{"total": 775.53, "balance": 620.37, "used": 155.16}
+
+{"total": 6826.74, "total_j": 2730.74, "balance": 6087.349999999999, "used": 739.39}
+
+{"empty":"null"}
+
+{"balance": 387.47}
+
+{"total": 100, "balance": 63.407, "used": 36.593}
+
+{"balance": 1410.79}
+
+{"total": 470, "balance": 389.12, "used": 80.88}
+
+{"total": 924.24, "total_j": 324.24, "balance": 832.81, "used": 91.43}
+
+{"total": 2970.56, "balance": 2713.3199999999997, "used": 257.24}
+
+{"total": 750.1, "balance": 618.9, "used": 131.1}
+
+{"total": 1170, "balance": 545.77, "used": 624.23}
+
+{"total": 1116.17, "balance": 904.03, "used": 212.14}
+
+{"total": 2048, "balance": 2048, "used": 0}
+
+{"total": 60, "balance": 55.56, "used": 4.44}
+
+{"total": 390.77, "balance": 345.45, "used": 45.32}
+
+{"empty":"null"}
+
+{"total": 60, "total_j": 0, "balance": 41.33, "used": 18.67}
+
+{"empty":"null"}
+
+{"total": 620, "balance": 425.7, "used": 194.3}
+
+{"total": 288.696, "balance": 234.219, "used": 54.47700000000003}
+
+{"total": 4094.21, "balance": 3811.48, "used": 282.74}
+
+{"total": 600, "balance": 228.04000000000002, "used": 371.96}
+
+{"total": 500, "balance": 431.2, "used": 68.8}
+
+{"total": 37.95, "balance": 36.84, "used": 1.1100000000000003}
+
+{"total": 617.08, "balance_j": 277.74, "balance": 597.74, "used": 19.340000000000032}
+
+{"total": 140.236, "balance": 132.054, "used": 8.181999999999988}
+
+{"total": 2048, "total_j": 1024, "balance": 2048, "used": 0}
+
+{"empty":"null"}
+
+{"total": 712.53, "balance": 608.29, "used": 104.24}
+
+{"balance": 0}
+
+{"total": 1976.255859375, "balance": 1858.2646484375, "used": 117.9912109375}
+
+{"total": 230, "balance": 30, "used": 200}
+
+{"total": 402.41, "balance": 321.35, "used": 81.06}
+
+{"total": 120, "balance": 120, "used": 0}
+
+{"balance": 839.9}
+
+{"balance": 101.73}
+
+{"balance_j": 0, "balance": 439.51171875}
+
+{"total": 608, "balance": 529, "used": 79}
+
+{"total": 59.6, "balance": 14, "used": 45.6}
+
+{"total": 513.35, "balance": 442.36, "used": 70.99}
+
+{"total": 56330, "balance": 56218.841, "used": 111.15899999999965}
+
+{"total": 689.006, "balance": 622.72, "used": 66.28599999999994}
+
+{"empty":"null"}
+
+{"total": 43.269999999999996, "balance": 35.49, "used": 7.78}
+
+{"total": 700, "balance": 699.419921875, "used": 0.580078125}
+
+{"total": 21743.25, "balance": 18614.04, "used": 3129.21}
+
+{"total": 949.99, "balance": 641.07, "used": 308.92}
+
+{"total": 1196.64, "total_j": 196.64, "balance": 962.83, "used": 233.8}
+
+{"total": 300, "balance": 19.74, "used": 280.26}
+
+{"total": 41.49, "balance": 41.49, "used": 0}
+
+{"balance": 979.97}
+
+{"empty":"null"}
+
+{"total": 2024, "balance": 1901.01, "used": 122.99}
+
+{"total": 130, "balance": 105.18, "used": 24.82}
+
+{"empty":"null"}
+
+{"empty":"null"}
+
+{"empty":"null"}
+
+{"empty":"null"}
+
+{"total": 3287.94, "balance": 2109.35, "used": 1178.5900000000001}
+
+{"total": 174.4, "balance": 165.32999999999998, "used": 9.07}
+
+{"total": 1738.73, "balance": 1118.56, "used": 620.1700000000001}
+
+{"empty":"null"}
+
+{"total": 1053.81, "balance": 956.4, "used": 97.41}
+
+{"total": 629.79, "balance": 441.5, "used": 188.29}
+
+{"balance": 582.18}
+
+{"total": 1024, "balance": 979.6, "used": 44.4}
+
+{"total": 100, "balance": 85.73, "used": 14.27}
+
+{"empty":"null"}
+
+{"empty":"null"}
+
+{"total": 200, "balance": 104.39, "used": 95.61}
+
+{"total": 1024, "balance": 1020.63, "used": 3.37}
+
+{"total": 1058.95, "balance": 700, "used": 358.95}
+
+{"used_b": 0, "used": 189.02, "used_j": 189.02}
+
+{"balance": 600}
+
+{"balance": 1549.72}
+
+{"total": 460, "balance": 142.01, "used": 317.99}
+
+{"empty":"null"}
+
+{"total": 320, "total_j": 0, "balance": 196.61, "used": 123.39}
+
+{"empty":"null"}
+
+{"empty":"null"}
+
+{"total": 24.39, "balance": 24.39, "used": 0}
+
+{"total": 873.74, "balance": 682.64, "used": 191.1}
+
+{"total": 240, "balance": 239.88, "used": 0.12000000000000455}
+
+{"empty":"null"}
+
+{"total": 600, "balance": 558.5799999999999, "used": 41.42}
+
+{"total": 38.425, "balance": 32.486, "used": 5.939}
+
+{"total": 904.26, "balance": 624.58, "used": 279.68}
+
+{"empty":"null"}
+
+{"total": 252, "balance": 179.15, "used": 73.84}
+
+{"total": 500, "balance": 270.5, "used": 229.5}
+
+{"total": 776.94, "total_j": 176.94, "balance": 722.0400000000001, "used": 54.9}
+
+{"total": 2900, "balance": 2879.04, "used": 20.96}
+
+{"total": 320, "balance": 261.37, "used": 58.629999999999995}
+
+{"total": 436.70000000000005, "balance": 372.5, "used": 64.2}
+
+{"total": 1281.3, "balance": 1177.1, "used": 104.2}
+
+{"total": 1464, "total_j": 220, "balance": 1146.6, "used": 317.4}
+
+{"total": 550, "balance": 548.95, "used": 1.05}
+
+{"total": 3874.49, "balance": 3608.803, "used": 265.6869999999999}
+
+{"empty":"null"}
+
+{"total": 128.542, "balance": 125.496, "used": 3.0460000000000065}
+
+{"total": 590, "balance": 546.17, "used": 43.83}
+
+{"total": 150, "balance": 88.75, "used": 61.25}
+
+{"total": 38.01, "balance": 0, "used": 38.01}
+
+{"total": 549.76, "balance": 358.12, "used": 191.64}
+
+{"total": 500, "balance": 193.23, "used": 306.77}
+
+{"total": 1200, "balance": 1159.2890625, "used": 40.7109375}
+
+{"total": 2606.12, "balance": 1838.44, "used": 767.68}
+
+{"total": 2386.5, "balance": 2296.73, "used": 89.77000000000001}
+
+{"empty":"null"}
+
+{"empty":"null"}
+
+{"empty":"null"}
+
+{"total": 92.65, "balance": 75.83, "used": 16.82}
+
+{"balance": -34.48}
+
+{"total": 230, "balance": 51.17, "used": 178.83}
+
+{"total": 240, "balance": 240, "used": 0}
+
+{"balance": 1468.26}
+
+{"empty":"null"}
+
+{"total": 7328.8, "balance": 122.5, "used": 7206.3}
+
+{"total": 3172, "balance": 1684.4, "used": 1487.6}
+
+{"empty":"null"}
+
+{"used": 2304.7}
+
+{"balance": 317.28}
+
+{"total": 3072, "balance": 1526.29, "used": 1545.71}
+
